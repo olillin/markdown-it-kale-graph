@@ -1,0 +1,3 @@
+[submodule "kale-graph"]
+	path = kale-graph
+	url = https://github.com/olillin/kale-graph.git

@@ -1,0 +1,27 @@
+{
+  "name": "markdown-it-kale-graph",
+  "version": "1.0.0",
+  "description": "markdown.it plugin to render Kale graphs",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olillin/markdown-it-kale-graph.git"
+  },
+  "author": "Oli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olillin/markdown-it-kale-graph/issues"
+  },
+  "homepage": "https://github.com/olillin/markdown-it-kale-graph#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "markdown-it-kale-graph": "file:",
+    "typescript": "^5.6.3"
+  }
+}
